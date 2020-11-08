@@ -57,11 +57,11 @@ opacity: 0;
     /* font-size: 21px; */
     text-align: center;
 
-    -webkit-animation: fadein 10s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 10s; /* Firefox < 16 */
-        -ms-animation: fadein 10s; /* Internet Explorer */
-         -o-animation: fadein 10s; /* Opera < 12.1 */
-            animation: fadein 10s;
+    -webkit-animation: fadein 6s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 6s; /* Firefox < 16 */
+        -ms-animation: fadein 6s; /* Internet Explorer */
+         -o-animation: fadein 6s; /* Opera < 12.1 */
+            animation: fadein 6s;
 }
 h1
     {
@@ -69,11 +69,11 @@ h1
         /* font-size: 21px; */
         text-align: center;
     
-        -webkit-animation: fadeina 10s; /* Safari, Chrome and Opera > 12.1 */
-           -moz-animation: fadeina 10s; /* Firefox < 16 */
-            -ms-animation: fadeina 10s; /* Internet Explorer */
-             -o-animation: fadeina 10s; /* Opera < 12.1 */
-                animation: fadeina 10s;
+        -webkit-animation: fadeina 6s; /* Safari, Chrome and Opera > 12.1 */
+           -moz-animation: fadeina 6s; /* Firefox < 16 */
+            -ms-animation: fadeina 6s; /* Internet Explorer */
+             -o-animation: fadeina 6s; /* Opera < 12.1 */
+                animation: fadeina 6s;
     }
     @keyframes fadeina {
         from { opacity: 0; }
